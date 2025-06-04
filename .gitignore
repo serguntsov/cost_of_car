@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 not_push.py
+catboost_info/
 
 __pycache__/
 *.py[cod]
